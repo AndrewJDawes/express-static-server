@@ -1,2 +1,2 @@
-# docker-express-hello-world
-Docker Express Hello World
+# express-static-server
+Express static server
